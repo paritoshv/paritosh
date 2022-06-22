@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/paritosh/static/css/main.111b5713.chunk.css",
+    "main.js": "/paritosh/static/js/main.cef3e054.chunk.js",
+    "main.js.map": "/paritosh/static/js/main.cef3e054.chunk.js.map",
+    "runtime-main.js": "/paritosh/static/js/runtime-main.146fe900.js",
+    "runtime-main.js.map": "/paritosh/static/js/runtime-main.146fe900.js.map",
+    "static/js/2.d240d32d.chunk.js": "/paritosh/static/js/2.d240d32d.chunk.js",
+    "static/js/2.d240d32d.chunk.js.map": "/paritosh/static/js/2.d240d32d.chunk.js.map",
+    "static/js/3.834def63.chunk.js": "/paritosh/static/js/3.834def63.chunk.js",
+    "static/js/3.834def63.chunk.js.map": "/paritosh/static/js/3.834def63.chunk.js.map",
+    "static/js/4.4e52329f.chunk.js": "/paritosh/static/js/4.4e52329f.chunk.js",
+    "static/js/4.4e52329f.chunk.js.map": "/paritosh/static/js/4.4e52329f.chunk.js.map",
+    "index.html": "/paritosh/index.html",
+    "precache-manifest.d41bcdb8342cd4c9f5d5ae05650c07c7.js": "/paritosh/precache-manifest.d41bcdb8342cd4c9f5d5ae05650c07c7.js",
+    "service-worker.js": "/paritosh/service-worker.js",
+    "static/css/main.111b5713.chunk.css.map": "/paritosh/static/css/main.111b5713.chunk.css.map",
+    "static/js/2.d240d32d.chunk.js.LICENSE.txt": "/paritosh/static/js/2.d240d32d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.146fe900.js",
+    "static/js/2.d240d32d.chunk.js",
+    "static/css/main.111b5713.chunk.css",
+    "static/js/main.cef3e054.chunk.js"
+  ]
+}
